@@ -9,34 +9,46 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/start_1.mp3", "label": "Greeting 1" },
-        { "file": "sounds/start_2.mp3", "label": "Greeting 2" }
+        { "file": "sounds/su_add_player_01.wav", "label": "Oh!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/su_willattack_01.wav", "label": "If you will it" },
+        { "file": "sounds/su_sent_01.wav", "label": "Yes! I have what you need" },
+        { "file": "sounds/su_siege_01.wav", "label": "Tigers ready to pounce" }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/complete_1.mp3", "label": "Done 1" },
-        { "file": "sounds/complete_2.mp3", "label": "Done 2" }
-      ]
-    },
-    "input.required": {
-      "sounds": [
-        { "file": "sounds/permission_1.mp3", "label": "Needs attention" }
+        { "file": "sounds/su_vict_01.wav", "label": "The lion has roared" },
+        { "file": "sounds/su_boast_01.wav", "label": "Lamb fallen to the Sultan's beak" },
+        { "file": "sounds/su_vict_03.wav", "label": "Swift passage to heaven" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/error_1.mp3", "label": "Error" }
+        { "file": "sounds/su_anger_01.wav", "label": "Sky not bright today" },
+        { "file": "sounds/su_anger_02.wav", "label": "Olive branches weep" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/su_help_01.wav", "label": "Vultures fly high" },
+        { "file": "sounds/su_nervous_01.wav", "label": "Red sky approaches" },
+        { "file": "sounds/su_req_01.wav", "label": "We are in need" }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/limit_1.mp3", "label": "Limit hit" }
+        { "file": "sounds/su_notsent_01.wav", "label": "Camels will stay tethered" },
+        { "file": "sounds/su_nohelp_02.wav", "label": "Sultan weeps for you" }
       ]
     },
     "user.spam": {
       "sounds": [
-        { "file": "sounds/spam_1.mp3", "label": "Too many prompts" }
+        { "file": "sounds/su_noattack_02.wav", "label": "Maybe tomorrow but not now" },
+        { "file": "sounds/su_kick_player_01.wav", "label": "Oh dear!" }
       ]
     }
   }
