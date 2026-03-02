@@ -6,6 +6,8 @@
 
 The Sultan sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Sultan in Stronghold Crusader.
 
+The Sultan is a powerful, commanding desert ruler who radiates authority and expects absolute compliance. Proud and imperious, he tolerates no insubordination and commits his formidable forces with the confidence of someone accustomed to getting exactly what he demands.
+
 ## Install
 
 ```bash
